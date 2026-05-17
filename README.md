@@ -1,10 +1,8 @@
-# Smart-Pollution-management-and-Control-system
-An IoT and AI-based smart pollution monitoring system designed for coal, mining, steel, and power industries. The project uses ESP32, MQ135, and PMSA003 sensors for real-time air quality monitoring, automated pollution control, remote IoT dashboard monitoring, and predictive analytics to support cleaner and smarter industrial environments in India.
 # REAL-TIME SMART POLLUTION MEASUREMENT AND CONTROL SYSTEM
 
 ## Introduction
 
-The **Real-Time Smart Pollution Measurement and Control System** is an IoT and AI-based environmental monitoring project developed to reduce industrial air pollution and improve worker safety. The system is mainly designed for coal industries, mining industries, steel plants, manufacturing industries, and power plants where harmful gases and particulate pollutants are generated continuously.
+The **Real-Time Smart Pollution Measurement and Control System** is an IoT and AI-based environmental monitoring project developed to reduce industrial air pollution and improve worker safety to support cleaner and smarter industrial environments in India. The system is mainly designed for coal industries, mining industries, steel plants, manufacturing industries, and power plants where harmful gases and particulate pollutants are generated continuously.
 
 Traditional pollution monitoring systems are expensive and mostly lack real-time automation and predictive capabilities. This project provides a low-cost and smart solution capable of real-time pollution monitoring, automated control, remote IoT monitoring, and AI-based prediction.
 
