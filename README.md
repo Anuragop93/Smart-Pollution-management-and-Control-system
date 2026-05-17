@@ -2,9 +2,9 @@
 
 ## Introduction
 
-The **Real-Time Smart Pollution Measurement and Control System** is an IoT and AI-based environmental monitoring project developed to reduce industrial air pollution and improve worker safety to support cleaner and smarter industrial environments in India. The system is mainly designed for coal industries, mining industries, steel plants, manufacturing industries, and power plants where harmful gases and particulate pollutants are generated continuously.
+The **Real-Time Smart Pollution Measurement and Control System** is an IoT and AI based environmental monitoring project developed to reduce industrial air pollution and improve worker safety to support cleaner and smarter industrial environments in India. The system is mainly designed for coal industries, mining industries, steel plants, manufacturing industries, and power plants where harmful gases and particulate pollutants are generated continuously.
 
-Traditional pollution monitoring systems are expensive and mostly lack real-time automation and predictive capabilities. This project provides a low-cost and smart solution capable of real-time pollution monitoring, automated control, remote IoT monitoring, and AI-based prediction.
+Traditional pollution monitoring systems are expensive and mostly lack real time automation and predictive capabilities. This project provides a low cost and smart solution capable of real time pollution monitoring, automated control, remote IoT monitoring, and AI based prediction.
 
 The system continuously monitors harmful gases and particulate matter using gas and dust sensors. Whenever pollution levels exceed predefined threshold values, the system automatically activates a wet scrubber filtration mechanism and generates safety alerts for workers and nearby environments.
 
@@ -17,8 +17,8 @@ The system continuously monitors harmful gases and particulate matter using gas 
 * Automated pollution control mechanism
 * Remote IoT monitoring using Blynk
 * Worker safety alert system
-* AI-based pollution prediction
-* Smart and low-cost environmental protection system
+* AI based pollution prediction
+* Smart and low cost environmental protection system
 
 ---
 
@@ -31,7 +31,7 @@ The system continuously monitors harmful gases and particulate matter using gas 
 * IRLZ44N MOSFET
 * Submersible Water Pump
 * MT3608 Boost Converter
-* Lithium-Ion Battery
+* Lithium Ion Battery
 * LED Indicators
 * Active Buzzer
 
@@ -128,13 +128,13 @@ These models analyze sensor data patterns and predict future pollution levels, h
 # Features
 
 * Real-time pollution monitoring
-* IoT-based remote monitoring
+* IoT based remote monitoring
 * Automated wet scrubber mechanism
-* AI-based pollution prediction
-* Low-cost implementation
+* AI based pollution prediction
+* Low cost implementation
 * Smart industrial safety system
 * Wireless environmental monitoring
-* Real-time alert system
+* Real time alert system
 
 ---
 
@@ -153,13 +153,13 @@ These models analyze sensor data patterns and predict future pollution levels, h
 
 The project successfully demonstrated:
 
-* Real-time monitoring of harmful gases and PM2.5
+* Real time monitoring of harmful gases and PM2.5
 * Automatic pollution reduction mechanism
 * Remote cloud-based monitoring
 * Worker safety alert generation
-* AI-based pollution trend prediction
+* AI based pollution trend prediction
 
-The system provides a scalable and energy-efficient solution for smart industrial pollution management.
+The system provides a scalable and energy efficient solution for smart industrial pollution management.
 
 * LSTM Prediction vs Actual
   <img width="750" height="350" alt="image" src="https://github.com/user-attachments/assets/5f6303af-ecc1-4caa-a044-472a0c17b844" />
@@ -180,12 +180,12 @@ The system provides a scalable and energy-efficient solution for smart industria
 * Integration with advanced AI models
 * Smart city pollution management
 * Government environmental monitoring systems
-* Multi-industry deployment
+* Multi industry deployment
 * Data logging and analytics
-* Solar-powered environmental monitoring
+* Solar powered environmental monitoring
 
 ---
 
 # Conclusion
 
-The Real-Time Smart Pollution Measurement and Control System demonstrates how IoT, Embedded Systems, Automation, and AI can work together to create smart environmental protection systems. The project aims to make small-scale industries and power plants across India smarter, safer, and more environmentally responsible while contributing towards cleaner air and a healthier future.
+The Real Time Smart Pollution Measurement and Control System demonstrates how IoT, Embedded Systems, Automation, and AI can work together to create smart environmental protection systems. The project aims to make small scale industries and power plants across India smarter, safer, and more environmentally responsible while contributing towards cleaner air and a healthier future.
