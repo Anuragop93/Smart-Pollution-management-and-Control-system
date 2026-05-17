@@ -41,13 +41,15 @@ The system continuously monitors harmful gases and particulate matter using gas 
 
 # Block Diagram
 
-(Add your Block Diagram image here)
+<img width="765" height="526" alt="image" src="https://github.com/user-attachments/assets/7282e717-a7c9-44e9-8b72-2d2075081f04" />
+
 
 ---
 
 # System Architecture Diagram
 
-(Add your Architecture Diagram image here)
+<img width="609" height="496" alt="image" src="https://github.com/user-attachments/assets/52a000e3-d86b-4414-b98f-b2dc20e75967" />
+
 
 ---
 
