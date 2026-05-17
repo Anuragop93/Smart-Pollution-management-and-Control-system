@@ -181,7 +181,8 @@ The system provides a scalable and energy efficient solution for smart industria
 
 * REAL TIME DASHBOARD
   
-  <img width="900" height="1200" alt="image" src="https://github.com/user-attachments/assets/04582263-c3df-434e-9611-cd83d7600799" />
+  <img width="1000" height="1500" alt="image" src="https://github.com/user-attachments/assets/47d8d847-54ad-4694-9688-b019576fcb35" />
+
   
 
 ---
