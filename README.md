@@ -53,6 +53,13 @@ The system continuously monitors harmful gases and particulate matter using gas 
 
 ---
 
+# WORKING MODEL 
+
+<img width="4096" height="2304" alt="WhatsApp Image 2026-05-17 at 10 52 28-2" src="https://github.com/user-attachments/assets/6f406d4e-cf47-4538-b142-4f824fee8285" />
+
+
+---
+
 # Circuit Working
 
 ## 1. Pollution Detection
