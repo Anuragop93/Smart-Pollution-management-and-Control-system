@@ -161,6 +161,18 @@ The project successfully demonstrated:
 
 The system provides a scalable and energy-efficient solution for smart industrial pollution management.
 
+* LSTM Prediction vs Actual
+  <img width="750" height="350" alt="image" src="https://github.com/user-attachments/assets/5f6303af-ecc1-4caa-a044-472a0c17b844" />
+
+* PM2.5 Spike Detection
+  <img width="800" height="350" alt="image" src="https://github.com/user-attachments/assets/fb0733d6-873f-4cb6-a1ea-40fe64d46983" />
+
+* Air Quality over time
+  <img width="850" height="350" alt="image" src="https://github.com/user-attachments/assets/aca02ef3-bc4e-4c5c-87d6-1c62d5927b21" />
+
+* REAL TIME DASHBOARD
+  <img width="900" height="1200" alt="image" src="https://github.com/user-attachments/assets/04582263-c3df-434e-9611-cd83d7600799" />
+
 ---
 
 # Future Scope
